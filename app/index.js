@@ -2,6 +2,7 @@ var subdomain = require('express-subdomain');
 var express = require('express');
 var app = express();
 var port = process.env.PORT || 8080;
+var series = require('middleware-flow').series;
 
 var localIP = '187.65.237.56',
     localPort = 8000,
@@ -23,7 +24,7 @@ function catchConnectionError(err, req, res, next) {
     }
 }
 
-app.use(log, subdomain('local', proxy(localURL)), catchConnectionError);
+app.use(subdomain('local', series(log, proxy(localURL), catchConnectionError)));
 
 app.get('/', function(req, res) {
     res.send('Homepage');
