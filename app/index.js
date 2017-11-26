@@ -5,7 +5,8 @@ var router = express.Router();
 var path    = require("path");
 var port = process.env.PORT || 8080;
 var series = require('middleware-flow').series;
-var assetsPath = '/home/eduardo/projects/eduardohenke.com';
+var assetsPath = path.join(__dirname + '/../assets/');
+console.log(assetsPath);
 var localIP = '187.65.237.56',
     localPort = 8000,
     request = require('request'),
