@@ -19,6 +19,7 @@
   "homepage": "https://github.com/eduhenke/eduardohenke.com#readme",
   "dependencies": {
     "express": "^4.16.2",
+    "express-http-proxy": "^1.1.0",
     "express-subdomain": "^1.0.5",
     "request": "^2.83.0"
   }
