@@ -7,13 +7,13 @@ var express = require('express')
 
 function get(path, callback) {
     path = path || '';
-    console.log(request.get(localURL+path, {timeout: 1000}, callback));
+    request.get(localURL+path, {timeout: 1000}, callback);
     
 }
 
-router.get('/', function(req, res) {
-    console.log('Requesting ' + localURL);
-    get('/', function(error, response){
+router.get('*', function(req, res) {
+    console.log('Requesting ' + localURL + req.url);
+    get('/' + req.url, function(error, response){
         res.send(response.body);
     });
 })
