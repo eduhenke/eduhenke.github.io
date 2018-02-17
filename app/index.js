@@ -34,7 +34,7 @@ router.get('/shell', function(req, res){
 app.use(express.static(rootPath), subdomain('local', series(router, log, proxy(localURL), catchConnectionError)));
 
 app.get('/', function(req, res) {
-    res.send('Homepage');
+    res.sendFile(path.join(__dirname+'/index.html'));
 });
 
 app.listen(port, function(){
