@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+}
+body {
+    font-family: Arial;
+    height: 100%;
+    background: #fe839d;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+.floral-shoppe {
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    height: 50%;
+}
