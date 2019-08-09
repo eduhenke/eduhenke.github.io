@@ -25,7 +25,7 @@
     "express-subdomain": "^1.0.5",
     "jquery": "^3.2.1",
     "jquery.terminal": "^1.10.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "middleware-flow": "^0.8.0",
     "request": "^2.83.0"
   }
