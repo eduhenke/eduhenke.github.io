@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://eduhenke.github.io/eduardohenke.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
