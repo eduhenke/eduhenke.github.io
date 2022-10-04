@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Henke</title><link>https://eduardohenke.com/</link><description>Recent content on Henke</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://eduardohenke.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://eduardohenke.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eduardohenke.com/about/</guid><description>About</description><content>&lt;p>About&lt;/p></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Henke</title><link>https://eduardohenke.com/</link><description>Recent content on Henke</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardohenke.com/index.xml" rel="self" type="application/rss+xml"/><item><title>thoughts on an ideal programming language</title><link>https://eduardohenke.com/posts/ideal-lang/</link><pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate><guid>https://eduardohenke.com/posts/ideal-lang/</guid><description>standardized one way to do it, forget about multiple ways to write the same thing(see pythonic code) allows higher readability and understanding let the compiler verify standardness beginner-friendly allows low-effort code, will allow non 100% correctness(if I&amp;rsquo;m just trying to prototype something, I don&amp;rsquo;t want to spend too much time on it) expert-friendly allows high-effort code, will allow 100% correctness(if I want to write a program that is 100% correct, I should be able to do it) type-driven development types as specification constraints(maybe program synthesis?</description><content>&lt;ul>
+&lt;li>&lt;strong>standardized&lt;/strong>
+&lt;ul>
+&lt;li>one way to do it, forget about multiple ways to write the same thing(see &lt;em>pythonic&lt;/em> code)&lt;/li>
+&lt;li>allows higher readability and understanding&lt;/li>
+&lt;li>let the compiler verify standardness&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>beginner-friendly&lt;/strong>
+&lt;ul>
+&lt;li>allows low-effort code, will allow non 100% correctness(if I&amp;rsquo;m just trying to prototype something, I don&amp;rsquo;t want to spend too much time on it)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>expert-friendly&lt;/strong>
+&lt;ul>
+&lt;li>allows high-effort code, will allow 100% correctness(if I want to write a program that is 100% correct, I should be able to do it)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>type-driven development&lt;/strong>
+&lt;ul>
+&lt;li>types as specification&lt;/li>
+&lt;li>constraints(maybe program synthesis?)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>packages must be written by &lt;em>experts&lt;/em>, and must be trending towards 100% correctness&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>packages&amp;rsquo; public interfaces must conform to the previous version, when updating minor/patch versions(enforce semver)&lt;/strong>&lt;/li>
+&lt;/ul></content></item></channel></rss>
