@@ -2,6 +2,7 @@ baseurl = "https://eduardohenke.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
+googleAnalytics = "G-J9JDMZLBHS"
 
 [params]
   # dir name of your main content (default is `content/posts`).
