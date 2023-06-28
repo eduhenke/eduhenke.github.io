@@ -5,9 +5,9 @@ layout = "index"
 
 # Hello there!
 
-My name is `Eduardo Henke`, I'm from Brazil(from this [pretty island](https://en.wikipedia.org/wiki/Florian%C3%B3polis)) and I'm currently a **co-founder/partner/backend-engineer** at [Voltbras](https://voltbras.com.br/).
+My name is `Eduardo Henke`, I'm from Brazil(from this [pretty island](https://en.wikipedia.org/wiki/Florian%C3%B3polis)) and I was a **co-founder** at [Voltbras](https://voltbras.com.br/), now I'm currently acting as a tech lead at [Higher Order Company](https://github.com/HigherOrderCO).
 
-I'm finishing my B.Sc. in **Computer Science** at [Federal University of Santa Catarina](https://ufsc.br/), and I'm currently applying to **PhD** programmes in Computer Science, regarding my research interests.
+I've finished my B.Sc. in **Computer Science** at [Federal University of Santa Catarina](https://ufsc.br/), and I'm considering doing a **M.Sc/PhD** programmes in Computer Science, regarding my research interests.
 
 ## My principle
 
