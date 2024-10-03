@@ -5,9 +5,9 @@ layout = "index"
 
 # Hello there!
 
-My name is `Eduardo Henke`, I'm from Brazil(from this [pretty island](https://en.wikipedia.org/wiki/Florian%C3%B3polis)) and I was a **co-founder** at [Voltbras](https://voltbras.com.br/), now I'm currently acting as a tech lead at [Higher Order Company](https://github.com/HigherOrderCO).
+My name is `Eduardo Henke`, I'm from Brazil(from this [pretty island](https://en.wikipedia.org/wiki/Florian%C3%B3polis)). I was a **co-founder** at [Voltbras](https://voltbras.com.br/), I worked at [Higher Order Company](https://github.com/HigherOrderCO).
 
-I've finished my B.Sc. in **Computer Science** at [Federal University of Santa Catarina](https://ufsc.br/), and I'm considering doing a **M.Sc/PhD** programmes in Computer Science, regarding my research interests.
+I've finished my B.Sc. in **Computer Science** at [Federal University of Santa Catarina](https://ufsc.br/), and I'm now doing a **M.Sc** in Computer Science at [Federal University of Ouro Preto](https://ufop.br/), advancing my studies in formal methods and interaction combinators.
 
 ## My principle
 
@@ -25,22 +25,17 @@ I strongly believe that **type systems**(and other kinds of static analysis) are
 
 ## Research interests
 
-Primary research interests(with some degree of knowledge and actively learning):
+I'm interested in researching about:
+- `computational models`
+  - `interaction combinators`
+  - `interaction nets`
 - `type theory`
-- `dependent types`
-- `cubical types`
-- `homotopy type theory`
+  - `dependent types`
+  - `cubical types`
+  - `gradual typing`
 - `category theory`
-- `gradual typing`
-
-Secondary research interests(basic knowledge):
 - `high-level optimization`(e.g. [grin](https://grin-compiler.github.io/))
 - `program synthesis`
-- `design by contract`
-- `constraint-based programming`
-- `aspect-oriented programming`
-- `feature-oriented programming`
-
 
 ## Projects
 
@@ -53,4 +48,3 @@ Secondary research interests(basic knowledge):
 > Contact  
 > [[GitHub](https://github.com/eduhenke)]
 > [[LinkedIn](https://www.linkedin.com/in/eduardo-henke-731b33121)]
-> [[GitLab](https://gitlab.com/eduhenke)]
