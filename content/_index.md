@@ -7,7 +7,7 @@ layout = "index"
 
 My name is `Eduardo Henke`, I'm from Brazil(from this [pretty island](https://en.wikipedia.org/wiki/Florian%C3%B3polis)). I was a **co-founder** at [Voltbras](https://voltbras.com.br/), I worked at [Higher Order Company](https://github.com/HigherOrderCO).
 
-I've finished my B.Sc. in **Computer Science** at [Federal University of Santa Catarina](https://ufsc.br/), and I'm now doing a **M.Sc** in Computer Science at [Federal University of Ouro Preto](https://ufop.br/), advancing my studies in formal methods and interaction combinators.
+I've finished my **B.Sc** in Computer Science at [Federal University of Santa Catarina](https://ufsc.br/), and I'm now doing a **M.Sc** in Computer Science at [Federal University of Ouro Preto](https://ufop.br/), advancing my studies in formal methods and interaction combinators.
 
 ## My principle
 
